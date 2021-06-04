@@ -8,3 +8,6 @@ lastname varchar(30) not null,
 email varchar(50) not null,
 phoneNumber varchar(14) null
 )
+
+--comment tag 2.
+--comment tag 3.
